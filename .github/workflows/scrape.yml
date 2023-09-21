@@ -15,6 +15,7 @@ jobs:
     - name: Get data
       run: |-
         curl 'https://logos.tembici.com.br/ecobici-production/gbfs/station_status.json' | jq '.data.stations |= sort_by((.station_id | capture("station-(?<num>\\d+)").num) | tonumber)' > estaciones.json
+        cat estaciones.json | jq 'del(.last_updated) | .data.stations |= map(del(.last_reported, .station_information))' > estaciones_clean.json
     - name: Commit & push if changed
       run: |-
         date=$(date)
