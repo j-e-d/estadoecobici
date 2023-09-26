@@ -2599,10 +2599,10 @@
         "is_renting": true,
         "is_returning": true,
         "num_docks_available": 5,
-        "num_bikes_available": 11,
-        "num_bikes_disabled": 2,
+        "num_bikes_available": 10,
+        "num_bikes_disabled": 3,
         "num_bikes_disabled_types": {
-          "mechanical": 2,
+          "mechanical": 3,
           "electric": 0
         },
         "src": "pbsc"
