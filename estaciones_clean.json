@@ -470,8 +470,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 3,
-        "num_bikes_available": 15,
+        "num_docks_available": 4,
+        "num_bikes_available": 14,
         "num_bikes_disabled": 2,
         "num_bikes_disabled_types": {
           "mechanical": 2,
@@ -554,8 +554,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 7,
-        "num_bikes_available": 13,
+        "num_docks_available": 6,
+        "num_bikes_available": 14,
         "num_bikes_disabled": 0,
         "num_bikes_disabled_types": {
           "mechanical": 0,
@@ -736,8 +736,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 17,
-        "num_bikes_available": 1,
+        "num_docks_available": 18,
+        "num_bikes_available": 0,
         "num_bikes_disabled": 2,
         "num_bikes_disabled_types": {
           "mechanical": 2,
@@ -835,10 +835,10 @@
         "is_renting": true,
         "is_returning": true,
         "num_docks_available": 4,
-        "num_bikes_available": 14,
-        "num_bikes_disabled": 2,
+        "num_bikes_available": 16,
+        "num_bikes_disabled": 0,
         "num_bikes_disabled_types": {
-          "mechanical": 2,
+          "mechanical": 0,
           "electric": 0
         },
         "src": "pbsc"
@@ -975,10 +975,10 @@
         "is_renting": true,
         "is_returning": true,
         "num_docks_available": 14,
-        "num_bikes_available": 4,
-        "num_bikes_disabled": 2,
+        "num_bikes_available": 3,
+        "num_bikes_disabled": 3,
         "num_bikes_disabled_types": {
-          "mechanical": 2,
+          "mechanical": 3,
           "electric": 0
         },
         "src": "pbsc"
@@ -1786,8 +1786,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 13,
-        "num_bikes_available": 3,
+        "num_docks_available": 14,
+        "num_bikes_available": 2,
         "num_bikes_disabled": 0,
         "num_bikes_disabled_types": {
           "mechanical": 0,
@@ -2066,8 +2066,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 2,
-        "num_bikes_available": 14,
+        "num_docks_available": 3,
+        "num_bikes_available": 13,
         "num_bikes_disabled": 0,
         "num_bikes_disabled_types": {
           "mechanical": 0,
@@ -2710,8 +2710,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 6,
-        "num_bikes_available": 14,
+        "num_docks_available": 4,
+        "num_bikes_available": 16,
         "num_bikes_disabled": 0,
         "num_bikes_disabled_types": {
           "mechanical": 0,
@@ -3760,8 +3760,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 20,
-        "num_bikes_available": 1,
+        "num_docks_available": 21,
+        "num_bikes_available": 0,
         "num_bikes_disabled": 3,
         "num_bikes_disabled_types": {
           "mechanical": 3,
@@ -3844,8 +3844,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 15,
-        "num_bikes_available": 7,
+        "num_docks_available": 14,
+        "num_bikes_available": 8,
         "num_bikes_disabled": 2,
         "num_bikes_disabled_types": {
           "mechanical": 2,
@@ -4250,8 +4250,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 3,
-        "num_bikes_available": 7,
+        "num_docks_available": 2,
+        "num_bikes_available": 8,
         "num_bikes_disabled": 2,
         "num_bikes_disabled_types": {
           "mechanical": 2,
@@ -4432,8 +4432,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 12,
-        "num_bikes_available": 4,
+        "num_docks_available": 13,
+        "num_bikes_available": 3,
         "num_bikes_disabled": 0,
         "num_bikes_disabled_types": {
           "mechanical": 0,
@@ -4488,8 +4488,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 12,
-        "num_bikes_available": 4,
+        "num_docks_available": 10,
+        "num_bikes_available": 6,
         "num_bikes_disabled": 0,
         "num_bikes_disabled_types": {
           "mechanical": 0,
