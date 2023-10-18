@@ -834,8 +834,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 9,
-        "num_bikes_available": 11,
+        "num_docks_available": 8,
+        "num_bikes_available": 12,
         "num_bikes_disabled": 0,
         "num_bikes_disabled_types": {
           "mechanical": 0,
