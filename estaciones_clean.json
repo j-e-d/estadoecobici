@@ -92,8 +92,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 11,
-        "num_bikes_available": 11,
+        "num_docks_available": 12,
+        "num_bikes_available": 10,
         "num_bikes_disabled": 2,
         "num_bikes_disabled_types": {
           "mechanical": 2,
@@ -876,8 +876,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 1,
-        "num_bikes_available": 23,
+        "num_docks_available": 0,
+        "num_bikes_available": 24,
         "num_bikes_disabled": 0,
         "num_bikes_disabled_types": {
           "mechanical": 0,
@@ -1478,8 +1478,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 4,
-        "num_bikes_available": 26,
+        "num_docks_available": 5,
+        "num_bikes_available": 25,
         "num_bikes_disabled": 0,
         "num_bikes_disabled_types": {
           "mechanical": 0,
@@ -1604,8 +1604,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 31,
-        "num_bikes_available": 23,
+        "num_docks_available": 30,
+        "num_bikes_available": 24,
         "num_bikes_disabled": 0,
         "num_bikes_disabled_types": {
           "mechanical": 0,
@@ -2990,8 +2990,8 @@
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
-        "num_docks_available": 18,
-        "num_bikes_available": 2,
+        "num_docks_available": 19,
+        "num_bikes_available": 1,
         "num_bikes_disabled": 0,
         "num_bikes_disabled_types": {
           "mechanical": 0,
@@ -3107,6 +3107,20 @@
         "num_bikes_disabled": 1,
         "num_bikes_disabled_types": {
           "mechanical": 1,
+          "electric": 0
+        },
+        "src": "pbsc"
+      },
+      {
+        "station_id": "station-362",
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "num_docks_available": 12,
+        "num_bikes_available": 0,
+        "num_bikes_disabled": 0,
+        "num_bikes_disabled_types": {
+          "mechanical": 0,
           "electric": 0
         },
         "src": "pbsc"
